@@ -1,0 +1,16 @@
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# C++ compiled executables
+*.out
+*.exe
+
+# Temporary files
+*.log
+
+# Input/output files
+input.txt
+output.txt
